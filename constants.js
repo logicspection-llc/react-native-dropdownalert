@@ -34,7 +34,7 @@ const getDefaultStatusBarBackgroundColor = () => {
   return 'black';
 };
 
-module.exports = {
+export = {
   DEFAULT_IMAGE_DIMENSIONS,
   WINDOW,
   HEIGHT,
