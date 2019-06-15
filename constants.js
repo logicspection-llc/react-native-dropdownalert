@@ -34,7 +34,7 @@ const getDefaultStatusBarBackgroundColor = () => {
   return 'black';
 };
 
-export = {
+export {
   DEFAULT_IMAGE_DIMENSIONS,
   WINDOW,
   HEIGHT,
